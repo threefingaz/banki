@@ -1,1 +1,1 @@
-Тестовое здание http://datalaboratory.ru/events/designer-3/
+http://alnikitin.com/banki/
