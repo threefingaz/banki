@@ -1,7 +1,8 @@
 {
-  "name": "rating",
+  "name": "banki",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://alnikitin.com/banki",
   "devDependencies": {
     "react-scripts": "0.8.4",
     "tachyons": "^4.6.1"

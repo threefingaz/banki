@@ -59,12 +59,12 @@ class App extends Component {
       <div className="App">
         <header className="w-100 cf">
           <div className="dib silver w5 pr4 pv4 fl" style={{fontSize: '0.75rem'}}>
-            По данным предоставленым в <a className="silver hover-blue" href="http://datalaboratory.ru/events/designer-3/">
+            По данным предоставленным в <a className="silver hover-blue" href="http://datalaboratory.ru/events/designer-3/">
               тестовом задании
             </a>
           </div>
           <h1 className="dib f1 lh-title fl w-70">
-            Оценка банковских услуг для бизнеса с 2005 года
+            Оценка банковских услуг для бизнеса 2005—2016
           </h1>
         </header>
         <Sticky debug={true}>
